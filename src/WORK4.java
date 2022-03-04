@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class work4 {
+public class WORK4 {
     public static void main(String[] args){
         //构建键盘监听与随机数
         Scanner sc = new Scanner(System.in);

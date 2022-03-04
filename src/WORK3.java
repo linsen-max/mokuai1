@@ -1,4 +1,4 @@
-public class work3 {
+public class WORK3 {
     public static void main(String[] args){
         int[] arr = new int[]{6,1,2,3,4,5};
         int min = arr[0];
